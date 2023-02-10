@@ -9,3 +9,4 @@
 8. the file script 8-James_Bond gives only other users of the file 'hello' all permissions while the user and groups have none.
 9. the file script 9-John_Doe give the user all permissions, the group read and write permissions and others write and execute permissions.
 10. the file script 10-mirror_permissions gives the file hello the same permissions as the file hello.
+11. the file script 11-directories_permissions gives all the sub-directories under the directory alx-system_engineering-devops the execute permission.

@@ -1,1 +1,2 @@
 0. the filescript 0-current_working_directory prints out the current working directory
+2. the file script 1-listit displays the content of your current working directory

@@ -7,4 +7,4 @@
 7. the file script 7-movethatfile moves the file betty from the directory tmp to the directory my_first_directory
 8. the file script 8-firstdelete deletes the file betty
 9. the file script 9-firstdirdeletion deletes my_first_directory in tmp
-10. 
+10.the file script 10-back changes to the previous working directory

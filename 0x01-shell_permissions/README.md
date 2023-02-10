@@ -6,3 +6,5 @@
 5. the file script 5-execute gives the file hello the execute permission to the file hello.
 6. the file script 6-multiple_permissions give the owner and groups execute permissions.
 7. the file script 7-everybody gives the execute permission to the owner groups and other users of the file hello.
+8. the file script 8-James_Bond gives only other users of the file 'hello' all permissions while the user and groups have none.
+9. the file script 9-John_Doe give the user all permissions, the group read and write permissions and others write and execute permissions.

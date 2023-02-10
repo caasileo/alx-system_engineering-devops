@@ -4,3 +4,4 @@
 3. the file script 3-new_owner changes the owner of the file hello.
 4. the file script 4-empty creates an empty file called hello.
 5. the file script 5-execute gives the file hello the execute permission.
+6. the file script 6-multiple_permissions give the user and groups execute permissions.

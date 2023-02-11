@@ -11,3 +11,4 @@
 11. the file script 11-lists lists all files including hidden files of the current director the /boot directory and the parent directory.
 12. the file script 12-file_type prints the type of file of the file iamafile
 13. the file script 13-symbolic_link creats a symbolic link to bin/ls
+14. the file script 14-copy_html copies html files

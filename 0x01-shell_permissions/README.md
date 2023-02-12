@@ -1,4 +1,4 @@
-\0. the file script 0-iam_betty prints tempoarily switches the superuser.
+0. the file script 0-iam_betty prints tempoarily switches the superuser.
 1. the file script 1-who_am_i prints out the current user.
 2. the file script 2-groups prints out the groups of a user.
 3. the file script 3-new_owner changes the owner of the file hello.
@@ -13,3 +13,5 @@
 12. the file script 12-directory_permissions creats a directory called my_dir with permission 751 in the current working directory
 13. the file script 13-change_group changes the group to school for the file hello
 14. the file script 100-change_owner_and_group changes the owner of all files in th working directory to school and the group to staff
+15. the file script 101-symbolic_link_permissions changes the owner and group of _hello to vincent and staff
+16. the file scrit 102-if_only changes the owner of the file hello to betty if only it is owned by guillaume

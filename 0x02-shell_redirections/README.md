@@ -10,4 +10,5 @@
 9.the filescript 9-duplicate_last_line duplicates the last line of the file iacta.
 10.the filescript 10_no_more_js deletes all files with extention .js in the current working directory and all its subdirectories.
 11.the filescript 11-directories counts all the directories and subdirectories in the current working directory including hidden directories while excluding the parent and current directory.
-12.the filescript
+12.the filescript 12-newest_files displays the 10 newest files in the current directory one line per file and sort them from newest to oldest.
+13 the filescript

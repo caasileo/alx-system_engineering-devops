@@ -8,4 +8,5 @@
 7.the filescript 7-file creats the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)and adds the text Best School to it ending with a new line.
 8.the filescript 8-cwd_state redirets the result of ls -la to the file ls_cwd_content.
 9.the filescript 9-duplicate_last_line duplicates the last line of the file iacta.
-10.the filescript 
+10.the filescript 10_no_more_js deletes all files with extention .js in the current working directory and all its subdirectories.
+11.the filescript 

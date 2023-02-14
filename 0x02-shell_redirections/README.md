@@ -19,4 +19,5 @@
 18 the filescript 18-lettersonly displays  all lines of the file /etc/ssh/sshd_config starting with a letter.
 19 the filescript 19-AZ replaces all characters A and c from input to Z and e respectively.
 20 the filescript 20-hiago removes all letters c and C from input.
-21 the filescript 21-
+21 the filescript 21-reverse reverses its input.
+22 the filescript 22-p

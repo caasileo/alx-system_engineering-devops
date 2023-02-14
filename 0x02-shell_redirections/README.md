@@ -20,4 +20,4 @@
 19 the filescript 19-AZ replaces all characters A and c from input to Z and e respectively.
 20 the filescript 20-hiago removes all letters c and C from input.
 21 the filescript 21-reverse reverses its input.
-22 the filescript 22-p
+22 the filescript 22-users_and_homes displays all users and their home directories, sorted by users.

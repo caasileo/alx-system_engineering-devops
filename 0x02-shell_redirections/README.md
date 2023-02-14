@@ -13,4 +13,5 @@
 12.the filescript 12-newest_files displays the 10 newest files in the current directory one line per file and sort them from newest to oldest.
 13 the filescript 13-unique takes a list of words as input and prints only words that appear exactly once.
 14 the filescript 14-findthatword displays lines containing the pattern “root” from the file /etc/passwd.
-15 the filescript 
+15 the filescript 15-countthatword displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
+16 the filescript 16-

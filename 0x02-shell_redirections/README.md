@@ -6,5 +6,6 @@
 5.the filescript 5-firstlines displays the first 10 lines of /etc/passwd file.
 6.the filescript 6-third_line displays the third line of the file iacta.
 7.the filescript 7-file creats the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)and adds the text Best School to it ending with a new line.
-8.the filescript 8-cwd_state redirets the result of ls -la to the file ls_cwd_content
-9.the filescript 9-
+8.the filescript 8-cwd_state redirets the result of ls -la to the file ls_cwd_content.
+9.the filescript 9-duplicate_last_line duplicates the last line of the file iacta.
+10.the filescript 

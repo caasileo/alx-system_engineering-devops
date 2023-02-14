@@ -5,4 +5,5 @@
 4.the filescript 4-lastlines displays the last 10 lines of a /etc/passwd.
 5.the filescript 5-firstlines displays the first 10 lines of /etc/passwd file.
 6.the filescript 6-third_line displays the third line of the file iacta.
-7.the filescript 7-
+7.the filescript 7-file creats the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)and adds the text Best School to it ending with a new line.
+8.

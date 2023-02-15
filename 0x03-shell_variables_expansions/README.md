@@ -10,4 +10,5 @@
 9. the filescript 9-divide_and_rule  prints the result of POWER divided by DIVIDE, followed by a new line.
 10. the filescript 10-love_exponent_breath displays the result of BREATH to the power LOVE.
 11. the filescript 11-binary_to_decimal converts a number from base 2 to base 10.
-12. the filescript 
+12. the filescript 12-combinattion prints all possible combinations of two letters, except oo.
+13. the filescript 

@@ -8,4 +8,5 @@
 7. the filescript 7-create_global_variable creates a new global variable.
 8. the filescript 8-true_knowledge prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9. the filescript 9-divide_and_rule  prints the result of POWER divided by DIVIDE, followed by a new line.
-10. the filescript 
+10. the filescript 10-love_exponent_breath displays the result of BREATH to the power LOVE.
+11. the filescript 

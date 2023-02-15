@@ -5,4 +5,5 @@
 4. the filescript 4-global_variables lists environment variables.
 5. the filescript 5-local_variables lists all local variables and environment variables, and functions.
 6. the filescript 6-create_local_variable creates a new local variable.
-7. the filescript 
+7. the filescript 7-create_global_variable creates a new global variable.
+8. the filescript 

@@ -12,3 +12,5 @@
 11. the filescript 11-binary_to_decimal converts a number from base 2 to base 10.
 12. the filescript 12-combinattion prints all possible combinations of two letters, except oo.
 13. the filescript 13-print_float prints a number with two decimal places, followed by a new line.
+14. the filescript 100-decimal_to_hexadecimal converts a number from base 10 to base 16.
+15. the filescript 

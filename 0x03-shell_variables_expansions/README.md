@@ -14,3 +14,5 @@
 13. the filescript 13-print_float prints a number with two decimal places, followed by a new line.
 14. the filescript 100-decimal_to_hexadecimal converts a number from base 10 to base 16.
 15. the filescript 101-rot13 encodes and decodes text using the rot13 encryption. Assume ASCII.
+16. the filescript 102-odd prints every other line from the input, starting with the first line.
+17. the filescript 103-

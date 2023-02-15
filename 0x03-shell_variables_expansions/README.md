@@ -3,4 +3,5 @@
 2. the filescript 2-path will Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 3. the filescript 3-paths counts the number of directories in the PATH.
 4. the filescript 4-global_variables lists environment variables.
-5. the filescript 5-
+5. the filescript 5-local_variables lists all local variables and environment variables, and functions.
+6. the filescript 
